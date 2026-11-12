@@ -6,7 +6,6 @@ I build web and mobile applications — especially **business software** that co
 ERP, invoicing, booking and real-estate management — from requirements to production.
 
 - 🎓 Master's student in Information Systems Engineering (IBAM, Université Joseph Ki-Zerbo)
-- 🏆 Winner of the Orange Digital Center Hackathon 2024
 - 🌍 Open to full-time roles, freelance projects and remote work
 
 ## Tech stack
