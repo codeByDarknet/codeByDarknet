@@ -13,7 +13,7 @@ ERP, invoicing, booking and real-estate management — from requirements to prod
 **Languages**<br>
 <img src="assets/stack/typescript.svg" width="44" alt="TypeScript" title="TypeScript">
 <img src="assets/stack/javascript.svg" width="44" alt="JavaScript" title="JavaScript">
-<img src="assets/stack/php.svg" width="44" alt="PHP" title="PHP">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/php-dark.svg"><img src="assets/stack/php-light.svg" width="44" alt="PHP" title="PHP"></picture>
 <img src="assets/stack/python.svg" width="44" alt="Python" title="Python">
 <img src="assets/stack/java.svg" width="44" alt="Java" title="Java">
 <img src="assets/stack/dart.svg" width="44" alt="Dart" title="Dart">
@@ -36,13 +36,13 @@ ERP, invoicing, booking and real-estate management — from requirements to prod
 
 **Data & tools**<br>
 <img src="assets/stack/postgresql.svg" width="44" alt="PostgreSQL" title="PostgreSQL">
-<img src="assets/stack/mysql.svg" width="44" alt="MySQL" title="MySQL">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/mysql-dark.svg"><img src="assets/stack/mysql-light.svg" width="44" alt="MySQL" title="MySQL"></picture>
 <img src="assets/stack/mongodb.svg" width="44" alt="MongoDB" title="MongoDB">
 <img src="assets/stack/firebase.svg" width="44" alt="Firebase" title="Firebase">
-<img src="assets/stack/prisma.svg" width="44" alt="Prisma" title="Prisma">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/prisma-dark.svg"><img src="assets/stack/prisma-light.svg" width="44" alt="Prisma" title="Prisma"></picture>
 <img src="assets/stack/docker.svg" width="44" alt="Docker" title="Docker">
 <img src="assets/stack/git.svg" width="44" alt="Git" title="Git">
-<img src="assets/stack/github.svg" width="44" alt="GitHub" title="GitHub">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/github-dark.svg"><img src="assets/stack/github-light.svg" width="44" alt="GitHub" title="GitHub"></picture>
 <img src="assets/stack/postman.svg" width="44" alt="Postman" title="Postman">
 
 ## Featured projects
